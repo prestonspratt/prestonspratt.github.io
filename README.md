@@ -1,10 +1,10 @@
 # Preston Spratt
 
 ## Resume
-You can find my [resume](https://github.com/prestonspratt/prestonspratt.github.io/edit/main/README.md) by following the link.
+You can find my [resume](https://github.com/prestonspratt/prestonspratt.github.io/blob/main/Preston%20Spratt%20-Public%20Resume%20-%20Director%20of%20Learning%20and%20Development.pdf) by following the link.
 
 ## Cover Letter
-You can find my [cover letter](https://github.com/prestonspratt/prestonspratt.github.io/edit/main/README.md) by following the link.
+You can find my [cover letter](https://github.com/prestonspratt/prestonspratt.github.io/blob/main/Preston%20Spratt%20-%20Public%20Cover%20Letter%20-%20Learning%20and%20Development.pdf) by following the link.
 
 
 ## Learning Engineer
